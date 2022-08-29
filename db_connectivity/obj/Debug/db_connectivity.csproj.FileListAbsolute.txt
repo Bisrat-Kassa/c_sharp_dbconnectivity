@@ -1,0 +1,11 @@
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\bin\Debug\db_connectivity.exe.config
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\bin\Debug\db_connectivity.exe
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\bin\Debug\db_connectivity.pdb
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.Form1.resources
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.Properties.Resources.resources
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.csproj.GenerateResource.cache
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.exe
+C:\Users\Bisrat\Desktop\Asiya\db_connectivity\obj\Debug\db_connectivity.pdb
